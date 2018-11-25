@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_your_pokemons">Seus Pokémons</string>
+    <string name="title_search">Encontre Pokémons</string>
+    <string name="title_profile">Perfil</string>
+</resources>
