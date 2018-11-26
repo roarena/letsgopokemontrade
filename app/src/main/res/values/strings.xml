@@ -3,4 +3,8 @@
     <string name="title_your_pokemons">Your Pokémons</string>
     <string name="title_search">Find Pokémons</string>
     <string name="title_profile">Profile</string>
+
+    <!-- User Pokémons Fragment -->
+    <string name="btn_add_pokemon">Add Pokémon</string>
+    <string name="toast_pokemon_added">Pokémon added successfully</string>
 </resources>
